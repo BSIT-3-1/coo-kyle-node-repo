@@ -1,8 +1,8 @@
 {
-    "name": "test-node",
+    "name": "kyle-node",
     "version": "1.0.0",
     "description": "This is a test node project.",
-    "main": "main.js",
+    "main": "Diamond.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node main.js"
